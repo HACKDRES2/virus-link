@@ -18,3 +18,6 @@ viruslink.sh
 # Visita nuestro canal de Youtube
 
 https://youtube.com/channel/UCTSAjBuSJiqSYXd_dqg4qBg
+
+
+Este script no es mio solo le ise una modificacion todos los derechos están para el creador
